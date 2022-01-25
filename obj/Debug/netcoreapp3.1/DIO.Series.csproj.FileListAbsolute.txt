@@ -1,0 +1,14 @@
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Windows 8.1\Desktop\IFSP\LPES\Projetogit\DIOSeries-main\DIO.Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
